@@ -13,7 +13,7 @@
     "react-bootstrap-easy-dialog": "^0.3.3",
     "react-bootstrap-sweetalert": "^5.1.9",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "sweetalert": "^2.1.2"
   },
   "scripts": {
